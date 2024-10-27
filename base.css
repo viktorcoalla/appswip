@@ -6,6 +6,7 @@
 
 :root {
   --swup-blue: hsl(239, 50%, 30%);
+  --swup-blue-darker: hsl(238, 50%, 18%);
   --swup-red: hsl(354, 99%, 68%);
   --swup-green: hsl(172, 65%, 62%);
   --link-underline-color: var(--swup-green);
