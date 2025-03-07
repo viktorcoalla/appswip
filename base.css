@@ -84,12 +84,12 @@ header {
   user-select: none;
 }
 
-#allrecords {
+.t-records {
   margin-top: auto;
   margin-bottom: auto;
 }
 
-#allrecords a {
+.t-records a {
   background-image: linear-gradient(var(--link-underline-color) 0%,
       var(--link-underline-color) 100%);
   background-repeat: no-repeat;
